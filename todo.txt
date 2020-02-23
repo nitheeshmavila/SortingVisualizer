@@ -1,0 +1,7 @@
+1. render one array as a bar graphf 
+
+2 render buttons 
+
+3.
+
+
